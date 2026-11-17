@@ -1,0 +1,4 @@
+/vendor/
+/.idea/
+/public/uploads/products/*
+!/public/uploads/products/.gitkeep
